@@ -1,0 +1,28 @@
+/AndroidPackage.java/1.1/Sat Jan 23 08:28:25 2010//
+/EnumLibraryStatus.java/1.1/Fri Oct 24 20:23:39 2008//
+/EnumPlaylistType.java/1.1/Fri Oct 24 20:23:39 2008//
+/EnumRatingSource.java/1.1/Fri Oct 24 20:23:39 2008//
+/EnumRatingValue.java/1.4/Tue Jan 22 17:44:15 2013//
+/EnumSignatureProcessingStatus.java/1.1/Fri Oct 24 20:23:39 2008//
+/GlobalSong.java/1.1/Fri Oct 24 20:23:39 2008//
+/GlobalSongSource.java/1.1/Fri Oct 24 20:23:39 2008//
+/Library.java/1.4/Tue Sep  7 16:24:56 2010//
+/OutboundMsgQ.java/1.2/Tue Sep  7 16:24:56 2010//
+/Playlist.java/1.3/Fri Aug 28 18:12:29 2009//
+/PlaylistStatus.java/1.1/Fri Oct 24 20:23:39 2008//
+/PlaylistTrack.java/1.1/Fri Oct 24 20:23:39 2008//
+/RatingArtist.java/1.1/Fri Oct 24 20:23:39 2008//
+/RatingSong.java/1.1/Fri Oct 24 20:23:39 2008//
+/RecoAlternate.java/1.1/Fri Oct 24 20:23:39 2008//
+/Recommendation.java/1.1/Fri Oct 24 20:23:39 2008//
+/SignatureRequest.java/1.2/Fri Oct 31 08:12:39 2008//
+/SourceVideo.java/1.1/Fri Feb 12 16:44:38 2010//
+/Track.java/1.2/Mon Nov 23 00:58:48 2009//
+/TrackEquivalence.java/1.1/Fri Oct 24 20:23:39 2008//
+/TrackEquivalenceSongs.java/1.1/Fri Oct 24 20:23:39 2008//
+/TrackSignatureValue.java/1.1/Fri Oct 24 20:23:39 2008//
+/Video.java/1.1/Fri Feb 12 16:44:38 2010//
+/Wishlist.java/1.1/Fri Oct 24 20:23:39 2008//
+D/dao////
+D/dto////
+D/impl////

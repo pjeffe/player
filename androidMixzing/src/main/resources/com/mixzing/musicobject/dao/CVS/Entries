@@ -1,0 +1,22 @@
+/AndroidPackageDAO.java/1.1/Sat Jan 23 08:28:25 2010//
+/CleanupResourceDAO.java/1.1/Tue May  5 01:37:35 2009//
+/DAOFactory.java/1.7/Tue Sep  7 16:25:11 2010//
+/GlobalSongDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/GlobalSongSourceDAO.java/1.2/Tue Sep  7 16:25:12 2010//
+/LibraryDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/MusicObjectDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/OutboundMsgQDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/PlaylistDAO.java/1.2/Tue Sep  7 16:25:13 2010//
+/PlaylistTrackDAO.java/1.2/Tue Sep  7 16:25:10 2010//
+/RatingArtistDAO.java/1.2/Tue Sep  7 16:25:14 2010//
+/RatingSongDAO.java/1.2/Tue Sep  7 16:25:12 2010//
+/RecoAlternateDAO.java/1.2/Tue Sep  7 16:25:13 2010//
+/RecommendationDAO.java/1.2/Tue Sep  7 16:25:10 2010//
+/SignatureRequestDAO.java/1.2/Thu Apr  7 19:10:59 2011//
+/TrackDAO.java/1.3/Fri Aug  5 16:15:15 2011//
+/TrackEquivalenceDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/TrackEquivalenceSongsDAO.java/1.1/Fri Oct 24 20:23:40 2008//
+/TrackSignatureValueDAO.java/1.2/Tue Sep  7 16:25:13 2010//
+/VideoDAO.java/1.2/Tue Sep  7 16:25:11 2010//
+/WishlistDAO.java/1.2/Tue Sep  7 16:25:12 2010//
+D/impl////

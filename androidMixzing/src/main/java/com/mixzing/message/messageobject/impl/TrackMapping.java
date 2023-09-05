@@ -1,0 +1,72 @@
+package com.mixzing.message.messageobject.impl;
+
+import java.io.Serializable;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.json.JSONStringer;
+
+/**
+ * <p>Title: MixMoxie Java Client</p>
+ *
+ * <p>Description: </p>
+ *
+ * <p>Copyright: Copyright (c) 2006</p>
+ *
+ * <p>Company: MixMoxie</p>
+ * @author G.Miller S Mathur.
+ * @version 1.0
+ */
+public class TrackMapping  implements Serializable {
+
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public TrackMapping() {
+
+    }
+
+    /*
+     * Lsid is sent by the client
+     */
+    private long lsid;
+
+    /*
+     * Server creates a unique gsid for this client. The gsid is not globally unique but only unique for
+     * a given library.
+     *
+     */
+    
+    private long gsid;
+
+    //@XmlAttribute
+    public long getGsid() {
+        return gsid;
+    }
+    public void setGsid(long gsid) {
+        this.gsid = gsid;
+    }
+    //@XmlAttribute
+    public long getLsid() {
+        return lsid;
+    }
+    public void setLsid(long lsid) {
+        this.lsid = lsid;
+    }
+
+    public TrackMapping(JSONObject json) throws JSONException {
+    	lsid = json.getLong("lsid");
+    	gsid = json.getLong("gsid");
+    }
+    
+    public void toJson(JSONStringer stringer) throws JSONException  {
+    	stringer.object();
+    	stringer.key("lsid");
+    	stringer.value(lsid);
+    	stringer.key("gsid");
+    	stringer.value(gsid);	
+    	stringer.endObject();
+    }
+}
